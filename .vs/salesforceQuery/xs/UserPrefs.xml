@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{6B08A690-B87B-4F7B-A58F-5F2A759B4C58}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SalesforceClient.cs">
+    <Files>
+      <File FileName="app.config" Line="13" Column="19" />
+      <File FileName="Program.cs" Line="29" Column="13" />
+      <File FileName="SalesforceClient.cs" Line="8" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.salesforceQuery PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
